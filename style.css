@@ -74,7 +74,7 @@
     }
     
     #dice{
-        right: 42%;
+        right: 40%;
     }
 
     .box h2{
@@ -83,10 +83,10 @@
         text-align: center;
     }
     .box h1{
-        font-size: 18px;
+        font-size: 19px;
     }
     .box p{
-        font-size: 16px;
+        font-size: 15px;
         font-weight: bold;
         margin-top: 5px;
     }
