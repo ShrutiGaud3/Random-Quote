@@ -70,20 +70,20 @@
     }
     .box{
         height: 280px;
-        width: 80%;
+        width: 90%;
     }
     
     #dice{
-        right: 150px;
+        right: 180px;
     }
 
     .box h2{
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 25px;
         text-align: center;
     }
     .box h1{
-        font-size: 25px;
+        font-size: 20px;
     }
     .box p{
         font-size: 17px;
